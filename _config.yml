@@ -12,9 +12,8 @@ title: Blog của Phùng Minh Chiến
 
 navbar-links:
   Về tôi: "aboutme"
-  Sở Thích:
-      -Thơ: "poems"
-      -Văn: "literature"
+  Thơ: "poems"
+  Văn: "literature"
 
 # --- Logo --- #
 
