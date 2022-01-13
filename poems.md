@@ -1,3 +1,9 @@
+---
+layout: page
+title: Một số bài văn của mình
+subtitle: Thơ, nguồn ngọn của văn học
+---
+
 # Thơ của mình
 Nhẹ tay thôi nhé  
 
