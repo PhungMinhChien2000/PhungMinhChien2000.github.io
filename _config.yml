@@ -89,6 +89,8 @@ feed_show_tags: true
 # Add a search button to the navbar
 post_search: true
 
+future: true
+
 # The keywords to associate with your website, for SEO purposes
 #keywords: "my,list,of,keywords"
 
