@@ -2,8 +2,8 @@
 layout: post
 title: Today is Chien's birthday 
 subtitle: Let's give him a small celebration
-thumbnail-img: assets/img/HappyBirthday.jpg
-cover-img: assets/img/HappyBirthday2.jpg
+thumbnail-img: assets/img/HappyBirthday.png
+cover-img: assets/img/HappyBirthday2.png
 after-content: index.html
 js: assets/js/quiz/script.js
 css: assets/css/quiz/style.css
