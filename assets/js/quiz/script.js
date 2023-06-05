@@ -82,7 +82,8 @@ const questions = [
     answers: [
       { text: '12-11-2007', correct: false },
       { text: '31-2-2007', correct: false },
-      { text: '6-5-2007', correct: true }
+      { text: '5-6-2007', correct: true },
+      { text: '6-11-2007', correct: false}
     ]
   },
   {
@@ -104,10 +105,37 @@ const questions = [
     ]
   },
   {
-    question: 'What is 4 * 2?',
+    question: 'Can you beat Chien in a 1v1 battle?',
     answers: [
-      { text: '6', correct: false },
-      { text: '8', correct: true }
+      { text: 'Yes', correct: false },
+      { text: 'No', correct: true }
+    ]
+  },
+  {
+    question: 'Which sport does Chien love the most?',
+    answers: [
+      { text: 'Football', correct: true },
+      { text: 'Badminton', correct: false},
+      { text: 'Hockey', correct: false},
+      { text: 'Swimming', correct: false}
+    ]
+  },
+  {
+    question: 'Which career does Chien wish to pursue?',
+    answers: [
+      { text: 'Teacher', correct: false},
+      { text: 'Salesman', correct: false},
+      { text: 'Police', correct: true},
+      { text: 'Doctor', correct: false}
+    ]
+  },
+  {
+    question: 'Which word best describes Chien?',
+    answers: [
+      { text: 'Hard-working', correct: true },
+      { text: 'Romantic', correct: true },
+      { text: 'Handsome', correct: true },
+      { text: 'Wise', correct: true },
     ]
   }
 ]
