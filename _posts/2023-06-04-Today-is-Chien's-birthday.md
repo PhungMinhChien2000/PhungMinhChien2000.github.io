@@ -12,6 +12,6 @@ social-share: false
 # Today is Chien's Birthday!
 
 And let's do a small celebration with a funny quiz!  
-A quiz about Chion is the easiest quiz in the world.  
+A quiz about Chien is the easiest quiz in the world.  
 Do you know why?  
 Because everyone loves Chien so much that they know everything about him 🥰
